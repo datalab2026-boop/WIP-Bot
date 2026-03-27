@@ -11,4 +11,4 @@ BUG_LOGS = 0
 
 RANKS = {}       
 VALID_RANKS = [] 
-MAX_RANK_THRESHOLD = 200 # Установите число (0-255), ниже которого ранги считаются VALID
+MAX_RANK_THRESHOLD = 200
