@@ -8,3 +8,4 @@ MONGO_URL = os.environ.get("MONGO_URL")
 # Maintenance
 ERROR_CHANNEL =
 LOGS_CHANNEL =
+PERMITTED_ROLES = [] #Write "," between each discord role ID
