@@ -6,6 +6,6 @@ RESTART_TOKEN = os.environ.get("RestartToken")
 ROVER_API = os.environ.get("RoverAPI")
 MONGO_URL = os.environ.get("MONGO_URL")
 # Maintenance
-ERROR_CHANNEL =
-LOGS_CHANNEL =
+ERROR_CHANNEL = 0
+LOGS_CHANNEL = 0
 PERMITTED_ROLES = [] #Write "," between each discord role ID
