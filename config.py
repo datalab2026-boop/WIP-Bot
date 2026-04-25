@@ -10,7 +10,7 @@ SHEET_KEY = os.environ.get("SheetKey")
 GROUP_ID = 0
 # Logging Channels
 ALT_DETECTION = 0
-ERROR_LOGS = 0
+BOT_LOGS = 0
 PROMOTION_LOGS = 0
 # Permissions set up
 PERMITTED_ROLES = [] # Write ", " between each discord role ID
